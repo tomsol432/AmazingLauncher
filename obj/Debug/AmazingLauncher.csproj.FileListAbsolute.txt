@@ -1,0 +1,26 @@
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\GFX\BCKGR.png
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\APPEXE\Amaze.exe
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\GFX\Darude_-_Sandstorm.mid
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\GFX\Ozzy Osbourne-Crazy Train.mid
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\AmazingLauncher.exe.config
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\AmazingLauncher.exe
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\AmazingLauncher.pdb
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.csprojAssemblyReference.cache
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\MainWindow.g.cs
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\App.g.cs
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher_Content.g.cs
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher_MarkupCompile.cache
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher_MarkupCompile.lref
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\MainWindow.baml
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.g.resources
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.Properties.Resources.resources
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.csproj.GenerateResource.cache
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.csproj.CoreCompileInputs.cache
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.exe
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.pdb
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\Properties\Resources.resx
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\AmazingLauncher.exe.manifest
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\bin\Debug\AmazingLauncher.application
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.exe.manifest
+C:\Users\tomso\source\repos\AmazingLauncher\AmazingLauncher\obj\Debug\AmazingLauncher.application
